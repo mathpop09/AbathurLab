@@ -153,3 +153,7 @@ How to:
    2. Be sure to replace the following path in Predict.py to where your specific data file islocated 
 
    3. Now simply, if using Canopy, run your files by pressing the build green arrow at the top of the interface.
+   
+#### FOR EXTRA INFORMATION
+https://github.com/jjiangweilan/Dynamic-Army-Prediction
+
